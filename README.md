@@ -157,5 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="zed-industries--zed"></div>
 
+### zed-industries--zed
+
+🔗 [source](https://github.com/zed-industries/zed) – [<code><small>v1.0.1</small></code>](https://github.com/zed-industries/zed/releases/tag/v1.0.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `Zed-aarch64.exe` | 65.8 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaSh1001/LatestReleaseMirror/main/releases/zed-industries/zed/Zed-aarch64.exe) |
+| `Zed-x86_64.exe` | 76.8 MB | [⬇️ Download](https://raw.githubusercontent.com/rezaSh1001/LatestReleaseMirror/main/releases/zed-industries/zed/Zed-x86_64.exe) |
 <!-- RELEASES_END -->
